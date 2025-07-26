@@ -11,3 +11,12 @@ A Proposta é aplicar o conhecimento de introdução ao python usando as estrutu
 [Especificações do desafio](https://efficient-sloth-d85.notion.site/Desafio-01-622bb29769034c9ba659f2dc33019055)
 
 https://efficient-sloth-d85.notion.site/Desafio-01-622bb29769034c9ba659f2dc33019055
+
+
+## Como usar
+
+```
+python app.py
+```
+
+
