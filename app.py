@@ -1,7 +1,11 @@
 import os
 
-contact = { "name": "wanderson", "phone": "27999447975", "email": "wpbarcelos@gmail.com", "favorite": False}
-agenda = [ contact]
+contact = { "name": "Wanderson Passos Barcelos", 
+           "phone": "27999447975", 
+           "email": "wpbarcelos@gmail.com", 
+           "favorite": False 
+           }
+agenda = [contact]
 
 def input_field(placeholder=""):
     value=''
